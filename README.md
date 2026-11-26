@@ -1,4 +1,4 @@
-### Hi, I'm Carlos Fuentes, a full-stack developer. I build, ship and run my own mobile apps, end to end.
+### Hi, I'm Carlos Fuentes, a full-stack developer. I build, ship and run my own apps, end to end.
 
 Product, mobile, backend, infrastructure and the AI features, all of it in production, with real users and paying
 subscribers. The apps' code is private (it is the business), so the repos pinned below are pieces of it, extracted
