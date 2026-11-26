@@ -18,6 +18,9 @@ and growth dashboards (RevenueCat + Meta Ads).
 
 #### Pinned: code you can read
 
+- [**growth-dashboard**](https://github.com/superdev150/growth-dashboard): a Laravel 12 API that joins RevenueCat
+  revenue with Meta ad spend per app, and a React + TypeScript dashboard with hand-built SVG charts. One failing
+  provider never blanks the page; runs on demo data, with screenshots
 - [**streaming-tool-agent**](https://github.com/superdev150/streaming-tool-agent): a tool-using Claude agent in PHP
   with grounded answers, UI actions validated on the server, NDJSON streaming and prompt caching; tested offline against
   a scripted model
@@ -32,9 +35,10 @@ and growth dashboards (RevenueCat + Meta Ads).
 
 #### Stack
 
-**Mobile:** Vue 3 · Ionic · Capacitor · Swift / WidgetKit · Kotlin · RevenueCat · AdMob · FCM
-**Backend:** PHP 8 / Laravel · Firestore · Cloud Storage · Node.js · ffmpeg
-**AI:** Claude API (agents, tool use, caching) · OpenAI · fal.ai (Flux, audio models) · Google Cloud TTS
+**Mobile:** Vue 3 · Ionic · Capacitor · Swift / WidgetKit · Kotlin · RevenueCat · AdMob · FCM\
+**Web:** React · TypeScript · TanStack Query · Vue 3 · Vite\
+**Backend:** PHP 8 / Laravel · Firestore · Cloud Storage · Node.js · ffmpeg\
+**AI:** Claude API (agents, tool use, caching) · OpenAI · fal.ai (Flux, audio models) · Google Cloud TTS\
 **Ops:** Google Cloud (Compute, IAP, IAM) · nginx · GitHub Actions (self-hosted runners)
 
 I'm happy to walk through the private code on a call.
